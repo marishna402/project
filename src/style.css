@@ -1,0 +1,61 @@
+h1 {
+  position: relative;
+  top: 30px;
+  left: -10px;
+  font-size: 30px;
+  font-weight: 650;
+}
+.currentTemp {
+  font-size: 30px;
+  position: relative;
+  top: 10px;
+  left: -10px;
+  font-weight: 500;
+}
+h3 {
+  position: relative;
+  top: 40px;
+  left: -10px;
+  font-size: inherit;
+}
+
+.temper {
+  position: relative;
+  top: 10px;
+  left: -10px;
+  font-size: larger;
+  font-weight: 550;
+}
+input[type="text"] {
+  padding: 20px;
+  margin: 8px 0;
+  padding-left: 5px;
+  background-position: 5px 5px;
+}
+.col-3 {
+  font-size: larger;
+  top: -40px;
+  font-family: sans-serif;
+}
+
+.weather {
+  border: 1px solid #999999;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  font-family: sans-serif;
+}
+
+p {
+  text-align: end;
+  font-weight: 550;
+}
+
+p2 {
+  font-size: larger;
+  font-weight: 500;
+  margin-left: -8px;
+}
+.date {
+  font-family: sans-serif;
+}
